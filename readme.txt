@@ -1,0 +1,2 @@
+In this program I find A=LU factorizatian. Iread A matrix from  matris file and I find there is how many row or columns. So my program works every nxn matris. After that I find L and U matrix and print it to the screen. Then I solve LUx=b with implement forward-substitution to solve Ly=b
+and implement back-substitution to solve Ux=y. I read b matrix from file. Then I try to do partial pivoting but ý couldn't finish it.
